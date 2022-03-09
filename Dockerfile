@@ -20,7 +20,7 @@
 
 FROM ubuntu:focal
 
-ARG KODI_VERSION=19.0
+ARG KODI_VERSION=19.4
 
 # https://github.com/ehough/docker-nfs-server/pull/3#issuecomment-387880692
 ARG DEBIAN_FRONTEND=noninteractive
